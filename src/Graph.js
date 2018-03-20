@@ -18,7 +18,7 @@ class Graph extends Component {
 				className={classes}
 				x="0px"
 				y="0px"
-				viewBox="0 0 809 9"
+				viewBox="0 0 1000 2"
 			>
 				<polyline points={this.props.lastPolyline} >
 					<animate

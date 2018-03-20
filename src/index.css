@@ -89,7 +89,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	height: 5rem;
-	padding: 4rem 1rem;
+	padding: 4rem 4rem;
 	border-radius: 8px;
 	box-shadow: 0 0 50px rgba(0, 0, 0, .1);
 }
