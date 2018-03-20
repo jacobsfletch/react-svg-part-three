@@ -4,7 +4,7 @@ class Graph extends Component {
 
 	componentWillReceiveProps(nextProps) {
 		if (this.props.nextArrayY !== nextProps.nextArrayY) {
-			this.svgRef.setCurrentTime(0)
+			this.svgRef.setCurrentTime(0);
 		}
 	}
 
@@ -56,4 +56,4 @@ class Graph extends Component {
 	}
 }
 
-export default Graph
+export default Graph;
